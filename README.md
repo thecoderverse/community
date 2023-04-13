@@ -11,4 +11,4 @@ Topluluğa katılmak için bilgiler daha sonra verilecektir.
 Topluluğa katkıda bulunmak istiyorsanız, lütfen Community Reposu'nda tartışılan konulara katılın veya yeni konular açın. Ayrıca, proje için mevcut katkıda bulunma yollarını araştırmak isteyebilirsiniz.
 
 # Lisans
-Bu proje MIT Lisance ile lisanslanmıştır. Lisansın tam metnine [Buraya lisans linki] adresinden erişebilirsiniz.
+Bu proje MIT Lisance ile lisanslanmıştır. Lisansın tam metnine [LICENSE](LICENSE) adresinden erişebilirsiniz.
